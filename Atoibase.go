@@ -15,6 +15,9 @@ func main() {
 
 package student
 
+// atoi pour passer en int et ensuite conversion de base
+// return base converti a la base une string
+
 func AtoiBase(s string, base string) int {
 	finalint := 0
 
